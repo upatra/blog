@@ -1,4 +1,6 @@
-baseURL = ""
+baseURL = "//upatra.com/blog/"
+relativeURLs=true
+canonifyURLs=true
 languageCode = "en-us"
 title = "Upatra Blog"
 theme = "noteworthy"
