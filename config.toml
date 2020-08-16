@@ -1,4 +1,4 @@
-baseURL = "//upatra.com/blog/"
+baseURL = ""
 relativeURLs=true
 canonifyURLs=true
 languageCode = "en-us"
